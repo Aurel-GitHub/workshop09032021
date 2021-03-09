@@ -9,8 +9,7 @@
 </head>
 <body>
     <div id="tac">
-        test : 
-        <?php include ?>
+        <?php include '/home/aurelien/Projets/WCS/workshop09032021/tac-site/stock.php'?>
         <?php echo $regularNuts; ?>
     </div>
 </body>
